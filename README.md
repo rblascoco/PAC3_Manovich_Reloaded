@@ -100,6 +100,15 @@ A partir de la base de dades generada per l’ús continuat de la plataforma, Sp
 
 Tot i que el procés és automatitzat, la narrativa no es percep com a mecànica, ja que es basa en experiències acumulades al llarg de l’any. D’aquesta manera, el relat aparenta explicar l’evolució musical de l’usuari, convertint la base de dades en una història coherent que dona sentit al conjunt de dades.
 
+A continuació es mostren diverses captures de Spotify Wrapped que exemplifiquen la transformació de dades en una narrativa visual i emocional.
+
+<p align="center">
+  <img src="imatges/spotify/wrapper/wrapper_1.jpg" width="25%" />
+  <img src="imatges/spotify/wrapper/wrapper_2.jpg" width="25%" />
+  <img src="imatges/spotify/wrapper/wrapper_3.jpg" width="25%" />
+  <img src="imatges/spotify/wrapper/wrapper_7.jpg" width="25%" />
+</p>
+
 ### 5. Reflexió crítica personal
 
 Spotify Wrapped construeix una identitat digital basada en dades, oferint a l’usuari una experiència personalitzada amb una forta càrrega emocional. Aquesta experiència té un impacte social notable, ja que fomenta la compartició del relat a les xarxes socials i reforça el sentiment de pertinença a una comunitat cultural.
@@ -107,16 +116,6 @@ Spotify Wrapped construeix una identitat digital basada en dades, oferint a l’
 Tanmateix, aquesta personalització té límits. L’algoritme decideix quines dades es destaquen i quines queden invisibilitzades, condicionant el relat final. A més, la representació gràfica i narrativa no pot reflectir la totalitat de la complexitat dels gustos musicals d’un individu.
 
 Malgrat aquestes limitacions, Spotify Wrapped pot considerar-se un exemple clar d’hibridació i un fenomen cultural contemporani que genera expectatives anuals i influeix activament en la manera com es construeix i es comparteix la identitat musical.
-
-<p align="center">
-  <img src="imatges/spotify/wrapper/wrapper_1.jpg" width="40%" style="margin-right:20px;" />
-  <img src="imatges/spotify/wrapper/wrapper_2.jpg" width="40%" />
-</p>
-
-<p align="center">
-  <img src="imatges/spotify/wrapper/wrapper_3.jpg" width="40%" style="margin-right:20px;" />
-  <img src="imatges/spotify/wrapper/wrapper_7.jpg" width="40%" />
-</p>
 
 ---
 
