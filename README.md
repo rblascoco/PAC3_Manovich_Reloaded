@@ -1,4 +1,5 @@
-# PAC3 – Manovich Reloaded
+
+# 📘 PAC3 – Manovich Reloaded
 
 ## Introducció
 
@@ -10,8 +11,8 @@ Aquest document analitza dos casos d’hibridació contemporanis, **Wikiloc** i 
 
 ---
 
-## ASSAIG 1 — Wikiloc
-
+## 🧭 ASSAIG 1 — Wikiloc
+![wikiloc logo](imatges/wikilog/wikilog-logo.svg)
 ### 1. Descripció del projecte
 
 Wikiloc és una plataforma digital que permet als seus usuaris crear, compartir i consultar rutes vinculades a activitats a l’aire lliure, fomentant una comunitat basada en l’intercanvi d’experiències en el territori. Els usuaris no només generen contingut a partir de les seves pròpies excursions, sinó que també poden valorar i comentar les rutes d’altres participants, aportant informació útil i feedback col·lectiu.
@@ -57,8 +58,8 @@ Malgrat aquestes limitacions, Wikiloc pot considerar-se un exemple clar de cultu
 
 ---
 
-## ASSAIG 2 — Spotify Wrapped
-
+## 🎧 ASSAIG 2 — Spotify Wrapped
+![spotify logo](imatges/spotify/spotify-logo.svg)
 ### 1. Descripció del projecte
 
 Spotify Wrapped és una funcionalitat integrada dins de la plataforma Spotify que ofereix als usuaris un resum anual personalitzat del seu consum musical. Aquest resum presenta informació com les cançons, artistes, gèneres i podcasts més escoltats al llarg de l’any, així com alguns descobriments destacats, a partir de les dades recollides durant l’ús continuat del servei.
