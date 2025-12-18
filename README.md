@@ -12,7 +12,7 @@ Aquest document analitza dos casos d’hibridació contemporanis, **Wikiloc** i 
 ---
 
 ## 🧭 ASSAIG 1 — Wikiloc
-![wikiloc logo](imatges/wikilog/wikilog-logo.svg)
+![wikiloc logo](imatges/wikiloc/wikiloc-logo.svg)
 ### 1. Descripció del projecte
 
 Wikiloc és una plataforma digital que permet als seus usuaris crear, compartir i consultar rutes vinculades a activitats a l’aire lliure, fomentant una comunitat basada en l’intercanvi d’experiències en el territori. Els usuaris no només generen contingut a partir de les seves pròpies excursions, sinó que també poden valorar i comentar les rutes d’altres participants, aportant informació útil i feedback col·lectiu.
