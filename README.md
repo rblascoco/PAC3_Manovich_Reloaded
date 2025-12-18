@@ -58,7 +58,9 @@ Tanmateix, la plataforma també presenta limitacions, com la dependència de la 
 
 Malgrat aquestes limitacions, Wikiloc pot considerar-se un exemple clar de cultura del software aplicada al cos i a l’espai, on el programari reconfigura una pràctica quotidiana i la transforma en una experiència cultural híbrida.
 
-![wikiloc example](imatges/wikiloc/wikiloc_ruta.png)
+<p align="center">
+  <img src="imatges/wikiloc/wikiloc_ruta.png" width="80%" />
+</p>
 
 ---
 
