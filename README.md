@@ -13,7 +13,7 @@ Aquest document analitza dos casos d’hibridació contemporanis, **Wikiloc** i 
 
 ## 🧭 ASSAIG 1 — Wikiloc
 <p align="center">
-  <img src="imatges/wikiloc/wikiloc_logo.svg" width="200"/>
+  <img src="imatges/wikiloc/wikiloc_logo.svg"/>
 </p>
 ### 1. Descripció del projecte
 
