@@ -103,10 +103,10 @@ Tot i que el procés és automatitzat, la narrativa no es percep com a mecànica
 A continuació es mostren diverses captures de Spotify Wrapped que exemplifiquen la transformació de dades en una narrativa visual i emocional.
 
 <p align="center">
-  <img src="imatges/spotify/wrapper/wrapper_1.jpg" width="25%" />
-  <img src="imatges/spotify/wrapper/wrapper_2.jpg" width="25%" />
-  <img src="imatges/spotify/wrapper/wrapper_3.jpg" width="25%" />
-  <img src="imatges/spotify/wrapper/wrapper_7.jpg" width="25%" />
+  <img src="imatges/spotify/wrapper/wrapper_1.jpg" width="20%" />
+  <img src="imatges/spotify/wrapper/wrapper_2.jpg" width="20%" />
+  <img src="imatges/spotify/wrapper/wrapper_3.jpg" width="20%" />
+  <img src="imatges/spotify/wrapper/wrapper_7.jpg" width="20%" />
 </p>
 
 ### 5. Reflexió crítica personal
