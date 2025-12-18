@@ -101,12 +101,14 @@ Tanmateix, aquesta personalització té límits. L’algoritme decideix quines d
 Malgrat aquestes limitacions, Spotify Wrapped pot considerar-se un exemple clar d’hibridació i un fenomen cultural contemporani que genera expectatives anuals i influeix activament en la manera com es construeix i es comparteix la identitat musical.
 
 <p align="center">
+  <img src="imatges/spotify/wrapper/wrapper_0.jpg" width="20%" />
   <img src="imatges/spotify/wrapper/wrapper_1.jpg" width="20%" />
   <img src="imatges/spotify/wrapper/wrapper_2.jpg" width="20%" />
   <img src="imatges/spotify/wrapper/wrapper_3.jpg" width="20%" />
   <img src="imatges/spotify/wrapper/wrapper_4.jpg" width="20%" />
   <img src="imatges/spotify/wrapper/wrapper_5.jpg" width="20%" />
   <img src="imatges/spotify/wrapper/wrapper_6.jpg" width="20%" />
+  <img src="imatges/spotify/wrapper/wrapper_7.jpg" width="20%" />
 </p>
 
 ---
