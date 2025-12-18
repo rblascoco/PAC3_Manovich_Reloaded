@@ -63,7 +63,9 @@ Malgrat aquestes limitacions, Wikiloc pot considerar-se un exemple clar de cultu
 ---
 
 ## 🎧 ASSAIG 2 — Spotify Wrapped
-![spotify logo](imatges/spotify/spotify-logo.svg)
+<p align="center">
+  <img src="imatges/spotify/spotify-logo.svg"/>
+</p>
 ### 1. Descripció del projecte
 
 Spotify Wrapped és una funcionalitat integrada dins de la plataforma Spotify que ofereix als usuaris un resum anual personalitzat del seu consum musical. Aquest resum presenta informació com les cançons, artistes, gèneres i podcasts més escoltats al llarg de l’any, així com alguns descobriments destacats, a partir de les dades recollides durant l’ús continuat del servei.
